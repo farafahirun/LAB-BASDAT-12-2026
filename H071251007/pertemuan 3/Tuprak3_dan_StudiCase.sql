@@ -172,7 +172,7 @@ WHERE
 	ORDER BY orderdate DESC;
 
 
--- STUDI CASE ASISTENSI
+-- STUDICASE ASISTENSI
 SELECT 
 	productcode,
 	productname,
